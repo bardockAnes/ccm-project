@@ -494,7 +494,7 @@ padding:5px 0px;
     width: 100%;
     float: left;
     font-size: 30px;
-    color: #0D2821;
+    color: #C59739;
     font-weight: bold;
     padding-top: 150px;
 }
@@ -556,17 +556,17 @@ padding:5px 0px;
     font-size: 18px;
     color: #ffffff;
     background-color: transparent;
-    border: 1px solid #C59739;
-    background-color: rgb(197, 151, 57);
+    border: 1px solid #0D2821;
+    background-color: #0D2821;
     padding: 8px 5px;
     text-align: center;
     font-weight: 500;
 }
 
 .readmore_bt a:hover {
-    color: #C59739;
+    color: #0D2821;
     background-color: #ffffff;
-    border: 1px solid #C59739;
+    border: 1px solid #0D2821;
 }
 
 
