@@ -93,6 +93,24 @@ display: none;
     #my_slider a.carousel-control-next{
         display: none ;
     }
+    .mokadima{
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+    .baht{
+        flex-wrap: wrap;
+        
+    }
+    .kaima{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .search_icon2{
+        display: none;
+    }
+    .ccmlogo{
+        padding-left: 0px;
+    }
     .cart-content-right {
         padding-bottom: 5px;
     }
