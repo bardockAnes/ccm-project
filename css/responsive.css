@@ -85,6 +85,14 @@
 /*------------------------------------------------------------------- 599px x 280px ---------------------------------------------------------------------*/
 
 @media only screen and (min-width: 280px) and (max-width: 599px) {
+
+    #my_slider a.carousel-control-prev{
+display: none;
+
+    }
+    #my_slider a.carousel-control-next{
+        display: none ;
+    }
     .cart-content-right {
         padding-bottom: 5px;
     }
