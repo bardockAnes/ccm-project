@@ -111,6 +111,13 @@ display: none;
     .ccmlogo{
         padding-left: 0px;
     }
+    .btn_main {
+        display: flex;
+        justify-content: center;
+    }
+    .col-md-6 {
+        text-align: center;
+    }
     .cart-content-right {
         padding-bottom: 5px;
     }
