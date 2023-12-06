@@ -423,7 +423,7 @@ padding:5px 0px;
     font-size: 18px;
     color: #010D09;
     background-color: transparent;
-    border: 1px solid #b48569;
+    border: 1px solid #C59739;
     padding: 8px 5px;
     text-align: center;
     font-weight: 500;
@@ -431,7 +431,7 @@ padding:5px 0px;
 
 .contact_bt a:hover {
     color: #ffffff;
-    background-color: #7c2c0c;
+    background-color: #C59739;
 }
 
 #main_slider a.carousel-control-next {
@@ -453,7 +453,7 @@ padding:5px 0px;
     background: transparent;
     opacity: 1;
     font-size: 20px;
-    color: #7c2c0c;
+    color: #C59739;
     border: 1px solid #757068;
     border-radius: 100px;
 }
