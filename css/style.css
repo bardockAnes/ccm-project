@@ -459,10 +459,12 @@ padding:5px 0px;
 }
 
 #main_slider .carousel-control-prev:hover,
-#main_slider .carousel-control-next:hover,
+#main_slider .carousel-control-next:hover{
+    color: black;
+}
 #main_slider .carousel-control-prev:focus,
 #main_slider .carousel-control-next:focus {
-    color: #000;
+    color: black;
 }
 
 .num1{
